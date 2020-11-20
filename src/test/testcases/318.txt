@@ -1,0 +1,5 @@
+ Function: main
+                    Body:
+                    If (x == 2) Then x[foo(5)] = x + 1;
+                    EndIf.
+                    EndBody.

@@ -1,0 +1,5 @@
+ Var: x;
+                    Function: foo
+                    Parameter: a[5]
+                    Body:
+                    EndBody.

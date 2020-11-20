@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    Do Var: x = 1; While (False) EndDo.
+                    EndBody.

@@ -1,0 +1,4 @@
+ Function: foo
+                    Body:
+                    f(f())[3] = 0X65;
+                    EndBody.

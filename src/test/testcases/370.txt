@@ -1,0 +1,9 @@
+ Function: main
+                    Body:
+                    While (True) Do
+                    If (x >= y) Then x = 2; 
+                    Else foo[foo()] = a[3];
+                    EndIf.
+                    EndWhile.
+                    EndBody.
+                    

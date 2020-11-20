@@ -1,0 +1,4 @@
+ Function: a
+                    Body:
+                    func(a + a[x]);
+                    EndBody.

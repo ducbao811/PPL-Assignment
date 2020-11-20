@@ -1,0 +1,4 @@
+ Function: foo
+                    Parameter: a[2][4][6], b
+                    Body:
+                    EndBody. 

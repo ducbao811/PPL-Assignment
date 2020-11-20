@@ -1,0 +1,6 @@
+ Function: foo
+                    Body:
+                    For (x = 1, 4 , 3 ) Do
+                    x = x *. 1;
+                    EndFor.
+                    EndBody.

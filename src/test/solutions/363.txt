@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo)[],([][For(Id(x),IntLiteral(1),IntLiteral(4),IntLiteral(3),[],[Assign(Id(x),BinaryOp(*.,Id(x),IntLiteral(1)))])]))])

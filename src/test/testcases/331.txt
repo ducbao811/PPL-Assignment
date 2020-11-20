@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    Return a[foo(1.3)];
+                    EndBody.

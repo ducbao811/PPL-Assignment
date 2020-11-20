@@ -1,0 +1,5 @@
+ Function: main
+                    Body:
+                    For (i = 2, i[2] || 2, 2) Do
+                    EndFor.
+                    EndBody.

@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    While (a < 3 && 2 != 90) Do fucn(); EndWhile.
+                    EndBody.

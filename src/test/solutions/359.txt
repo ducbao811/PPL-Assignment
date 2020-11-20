@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][While(BooleanLiteral(true),[],[Assign(Id(x),BinaryOp(+.,Id(x),IntLiteral(1))),CallStmt(Id(x),[CallExpr(Id(foo),[Id(x)])])])]))])

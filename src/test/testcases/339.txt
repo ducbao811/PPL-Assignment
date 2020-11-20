@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    a = b % 34.e3 > a[foo()] ;
+                    EndBody.

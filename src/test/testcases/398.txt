@@ -1,0 +1,6 @@
+ Function: main
+                    Parameter: a
+                    Body:
+                    x = function(x);
+                    fact (x);
+                    EndBody.

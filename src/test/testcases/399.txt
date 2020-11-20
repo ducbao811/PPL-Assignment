@@ -1,0 +1,5 @@
+ Function: m
+                    Body:
+                    x = 10;
+                    fact("x");
+                    EndBody.

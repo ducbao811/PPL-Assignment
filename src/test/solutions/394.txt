@@ -1,0 +1,1 @@
+Program([VarDecl(Id(c),StringLiteral(SAD)),VarDecl(Id(f))])

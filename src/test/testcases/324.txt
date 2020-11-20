@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    Return a[i*3];
+                    EndBody.

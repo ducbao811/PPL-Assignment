@@ -1,0 +1,5 @@
+ Function: main
+                    Body:
+                    If 2 < 3 Then a = 1;
+                    EndIf.
+                    EndBody.

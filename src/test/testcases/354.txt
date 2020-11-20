@@ -1,0 +1,5 @@
+ Function: main 
+                    Parameter: a[10]
+                    Body: 
+                    While func() Do EndWhile. 
+                    EndBody. 

@@ -1,0 +1,4 @@
+ Function: fact
+                Body:
+                write(i);
+                EndBody.

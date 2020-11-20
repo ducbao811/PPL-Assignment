@@ -1,0 +1,7 @@
+ Function: main
+                    Body:
+                    While (True) Do
+                    x = x +. 1;
+                    x(foo(x));
+                    EndWhile.
+                    EndBody.

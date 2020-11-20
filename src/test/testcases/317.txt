@@ -1,0 +1,6 @@
+ Function: main
+                    Body:
+                    If (x == 2) Then x = x + 1;
+                    Else
+                    EndIf.
+                    EndBody.

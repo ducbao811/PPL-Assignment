@@ -1,0 +1,5 @@
+ Function: main
+                    Parameter: x
+                    Body:
+                    x[foo(3)] = 3;
+                    EndBody.

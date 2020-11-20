@@ -1,0 +1,5 @@
+ Function: foo
+                    Body:
+                    For (x = 1, (f[2] + 1)[5], 12e1) Do
+                    EndFor.
+                    EndBody.

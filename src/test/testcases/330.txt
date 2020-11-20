@@ -1,0 +1,6 @@
+ Function: foo
+                    Body:
+                    While (i =/= 5) Do
+                    a[i] = b +. 1.0;
+                    EndWhile.
+                    EndBody.

@@ -1,0 +1,5 @@
+ Function: main
+                    Body:
+                    If (x >= y) Then x = 2;
+                    EndIf.
+                    EndBody.

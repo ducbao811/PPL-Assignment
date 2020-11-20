@@ -1,0 +1,7 @@
+ Function: main
+                    Body:
+                    If (x == 2) Then
+                    ElseIf (x == 4) Then
+                    Else Break;
+                    EndIf.
+                    EndBody.

@@ -1,0 +1,6 @@
+ Function: main
+                    Parameter: e
+                    Body:
+                    x = "ABC" + { 1, 2, 3 };
+                    fact(x);
+                    EndBody.

@@ -1,0 +1,7 @@
+ Function: main
+                    Parameter: a
+                    Body:
+                    EndBody.
+                    Function: main2
+                    Body:
+                    EndBody.

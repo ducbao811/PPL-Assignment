@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    a[a+1] = 120000e-1 ;
+                    EndBody.

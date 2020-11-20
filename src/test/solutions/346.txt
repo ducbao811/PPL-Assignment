@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][CallStmt(Id(func),[ArrayCell(Id(a),[Id(x)])])]))])

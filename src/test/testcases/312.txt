@@ -1,0 +1,4 @@
+ Function: main
+                    Body:
+                    a = 0x34 ;
+                    EndBody.
